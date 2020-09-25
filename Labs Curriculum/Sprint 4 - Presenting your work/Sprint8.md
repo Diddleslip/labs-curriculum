@@ -16,7 +16,7 @@ Here are some quotes from hiring managers about presenting work:
 
 ## Prompt 1 - Curating your blog
 
-You can either edit your old blog from sprint 4 OR create an new blog. The edited / new blog should include:
+You can either edit your old blog from sprint 4 OR create a new blog. The edited / new blog should include:
 
 - a paragraph on the background of the product + organization
 - a paragraph on recent technical challenges including code snippets
